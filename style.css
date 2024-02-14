@@ -1,0 +1,22 @@
+/* p{
+    background-color: aqua;
+ *{
+    background-color: rgb(137, 168, 106);
+}
+#para2{
+ color: crimson;
+ background-color: lightsteelblue;
+}
+div > p{
+background-color: burlywood;
+}
+
+div h2{
+    background-color: hotpink;
+}
+h1 +p{
+    background-color: navy;
+}
+.para4 > span{
+    color: rgb(40, 20, 220);
+} */
